@@ -67,7 +67,7 @@ Arduino Uno → LEDs Indicadores de Estado (Pines Analógicos A0 y A1)
 
 ## Código fuente
 El software del sistema está desarrollado en C++ para entornos Arduino. El programa principal se encuentra completamente ordenado, modularizado y comentado en el siguiente enlace:
-* [Ver código principal (sistema_seguridad.ino)](codigo/programa_principal/sistema_seguridad/sistema_seguridad.ino)
+* [Ver código principal](codigo/programa_principal/sistema_seguridad/sistema_seguridad.ino)
 
 El algoritmo implementa de manera estratégica la librería `<Servo.h>` para mitigar el ruido electromecánico en las líneas digitales de control a través del Pin Digital 4.
 
